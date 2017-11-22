@@ -1,0 +1,11 @@
+1365
+5461
+9557
+13653
+9557
+1365
+1365
+
+Requests: 7
+Page Faults: 7
+Page Faults W/ Write: 1

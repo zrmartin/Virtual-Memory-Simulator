@@ -1,0 +1,13 @@
+1365
+5461
+9557
+13653
+0
+4096
+8192
+12288
+16383
+
+Requests: 9
+Page Faults: 5
+Page Faults W/ Write: 0
